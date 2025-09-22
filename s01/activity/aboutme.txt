@@ -1,2 +1,5 @@
 Motivation
 - My motivation to join here is to master my knowledge in web developing and come up a new idea or knowledge in creating a websites
+
+Experience
+- As a former Computer Science student, I gain a lot of knowledge specially on Java. When I was on high school, I tried to learn Web devoloping on my own, I ask my friends to join me in my journey, most of them joined with me, we try to join some free courses online, that is really help us with basing web development.
